@@ -1,0 +1,32 @@
+.nav-link {
+  position: relative;
+  transition: color 0.3s ease;
+}
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background-color: #ffffff;
+  transition: width 0.3s ease;
+}
+.nav-link:hover::after {
+  width: 100%;
+}
+#arrow {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  animation: mymove 1s infinite;
+}
+@keyframes mymove {
+  from {top: 0px;}
+  to {top: 30px;}
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* sombra suave */
+}

@@ -1,0 +1,10 @@
+:root {
+    --bg-principal: #00255a;
+    --bg-color: #c8690a;
+}
+.card {
+    width: 25rem !important;
+    border: none !important;
+    cursor: pointer;
+}
+
