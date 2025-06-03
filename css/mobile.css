@@ -2,4 +2,18 @@
     .card {
         width: 20rem !important;
     }
+    #section-contato {
+        padding: 0px !important;
+    }
+    #sessao-contato {
+        flex-direction: column;
+        height: 75vh;
+        width: 100%;
+        justify-content: space-between !important;
+    }
+    #texto-contato {
+        align-items: center !important;
+        text-align: center;
+        padding-top: 3.3rem;
+    }
 }
