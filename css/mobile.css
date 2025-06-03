@@ -12,4 +12,18 @@
     #titulo-video {
         text-align: center;
     }
+    #rotate {
+        width: 100% !important;
+    }
+    #rotate02 {
+        width: 100% !important;
+        rotate: 0deg !important;
+    }
+    #rotate03 {
+        width: 100% !important;
+        rotate: 0deg !important;
+    }
+    #texto-rotate {
+        padding: 0px !important;
+    }
 }
