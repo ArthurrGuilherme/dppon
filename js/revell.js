@@ -1,13 +1,7 @@
 ScrollReveal({ reset: true });
-
-/*ScrollReveal().reveal('#session-princiapl', 
-    {    
-        Delay: 500, reset: false, distance: '100px' , origin: 'left',
-    }
-);*/
 ScrollReveal().reveal('#arrow', 
     {    
-        duration: 1000, reset: false,
+        delay: 1000, reset: false,
     }
 );
 ScrollReveal().reveal('#card', 
