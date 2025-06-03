@@ -1,7 +1,7 @@
 ScrollReveal({ reset: true });
 ScrollReveal().reveal('#arrow', 
     {    
-        delay: 1000, reset: false,
+        delay: 4000, reset: false,
     }
 );
 ScrollReveal().reveal('#card', 
