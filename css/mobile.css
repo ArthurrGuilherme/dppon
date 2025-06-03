@@ -7,13 +7,18 @@
     }
     #sessao-contato {
         flex-direction: column;
-        height: 75vh;
         width: 100%;
         justify-content: space-between !important;
     }
     #texto-contato {
         align-items: center !important;
         text-align: center;
-        padding-top: 3.3rem;
+        padding: 3rem 0px;
+    }
+    .img-contato {
+        display: none !important;
+    }
+    #Sessao-contato {
+        background: linear-gradient(180deg, #00255a, #92a2d5e4) !important;
     }
 }
