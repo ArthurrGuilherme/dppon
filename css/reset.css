@@ -7,5 +7,10 @@
     border: none !important;
     cursor: pointer;
 }
-
-
+#Btn01:hover {
+    background: #fff !important;
+    color: #000 !important;
+}
+#Btn02:hover {
+    background: #00255a !important;
+}

@@ -22,8 +22,9 @@
   animation: mymove 1s infinite;
 }
 @keyframes mymove {
-  from {top: 0px;}
-  to {top: 30px;}
+  0% {top: 0px;}
+  50% {top: 30px;}
+  100% {top: 0px;}
 }
 .card:hover {
   transform: scale(1.05);
