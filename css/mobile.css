@@ -26,12 +26,13 @@
         width: 100% !important;
     }
     #rotate02 {
-        width: 100% !important;
-        rotate: 0deg !important;
+        width: 85% !important;
+        rotate: 3deg !important;
     }
     #rotate03 {
         width: 100% !important;
-        rotate: 0deg !important;
+        rotate: 356deg !important;
+        font-size: .8rem !important;
     }
     #texto-rotate {
         padding: 0px !important;
