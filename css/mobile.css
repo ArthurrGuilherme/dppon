@@ -1,8 +1,4 @@
 @media (max-width: 900px) {
-    #imglogo {
-        right: 0rem !important;
-        bottom: 0.5rem !important;
-    }
     #displaynone {
         display: none !important;
     }
@@ -16,7 +12,7 @@
         width: 20rem !important;
     }
     #session-video  {
-        flex-direction: column-reverse;
+        flex-direction: column;
         gap: 2rem;
     }
     #video {
