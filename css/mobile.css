@@ -2,6 +2,16 @@
     #displaynone {
         display: none !important;
     }
+    #w-100 {
+        width: 100% !important;
+        text-align: center !important;
+    }
+    #p {
+        font-size: .9rem !important;
+    }
+    #padding {
+        padding: 0px !important;
+    }
     #sessaomobile {
         width: 96% !important;
     }
