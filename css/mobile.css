@@ -1,4 +1,8 @@
 @media (max-width: 900px) {
+    #imglogo {
+        right: 0rem !important;
+        bottom: 0.5rem !important;
+    }
     #sessaomobile {
         width: 96% !important;
     }
