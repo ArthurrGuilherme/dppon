@@ -3,6 +3,9 @@
         right: 0rem !important;
         bottom: 0.5rem !important;
     }
+    #displaynone {
+        display: none !important;
+    }
     #sessaomobile {
         width: 96% !important;
     }
