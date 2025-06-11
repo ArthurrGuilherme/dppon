@@ -1,4 +1,10 @@
 @media (max-width: 900px) {
+    #sessaomobile {
+        width: 96% !important;
+    }
+    #arrow {
+        width: 44% !important;
+    }
     .card {
         width: 20rem !important;
     }
